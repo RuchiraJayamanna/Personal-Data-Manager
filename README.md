@@ -1,2 +1,4 @@
 # Personal-Data-Manager
-Personal Data Management System using PHP, HTML, CSS and MySQL
+Login 
+    User Name : admin
+    Password  : password
